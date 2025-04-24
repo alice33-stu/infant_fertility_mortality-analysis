@@ -2,4 +2,4 @@
 
 ## Live Demo
 
-[Click here to see the rendered page!](https://alice33-stu.github.io/infant_fertility_mortality-analysis/docs/100-final.html)
+[Click here to see the rendered page!](https://alice33-stu.github.io/infant_fertility_mortality-analysis/100-final.html)
